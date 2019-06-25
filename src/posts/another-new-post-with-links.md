@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Another new post with links
 date: 2019-06-25T20:52:40.066Z
 tags:
-  - HTML  IndieWeb  Microformats
+  - Github HTML  IndieWeb  Microformats
 ---
 Trying to figure out how to keep up to date with developments on Github. <https://github.com/andybelldesign/hylia>
 
